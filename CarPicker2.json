@@ -1,167 +1,137 @@
 [
   {
-    "CarYear": "2025",
+    "CarName": "2025 KIA K4",
     "CarDescription": "Kia continues to refresh its lineup and sedan naming convention with the all-new K4. Replacing the Kia Forte, the K4 slots into the lineup below the K5. The K4 compact sedan is longer and wider than its predecessor. The Kia K4 is a 5-seater vehicle that comes in 3 trim levels. The most popular style is the EX, which starts at $25,145 and comes with a 2.0L I4 engine and Front Wheel Drive.",
-    "CarBrand": "KIA",
-    "CarModel": "K4",
     "CarPrice": "$23,145",
     "CarAvgPrice": "$23,298",
     "CarHighlights": "5 year / 60k Basic Warranty",
     "CarMPG": "City 30 MPG / Highway 40 MPG",
-    "CarImage": "k4.avif"
+    "CarImage": "https://raw.githubusercontent.com/1sauravm/CarPicker2/refs/heads/main/k4.avif"
   },
   {
-    "CarYear": "2025",
+    "CarYear": "2025 MINI Hardtop",
     "CarDescription": "An all-new model from top to bottom, the 2025 Mini Hardtop doesn't lose any of its charm while adding more modern features. It's a tasteful update to a classic coupe. The MINI Hardtop is a 4-seater vehicle that comes in 4 trim levels. The most popular style is the Cooper Signature 2-Door, which starts at $29,945 and comes with a 2.0L I4 Turbo engine and Front Wheel Drive",
-    "CarBrand": "MINI",
-    "CarModel": "Hardtop",
     "CarPrice": "$29,945",
     "CarAvgPrice": "$29,524",
     "CarHighlights": "4 year / 50k Basic Warranty",
     "CarMPG": "City 29 MPG / Highway 38 MPG",
-    "CarImage": "mini.avif"
+    "CarImage": "https://raw.githubusercontent.com/1sauravm/CarPicker2/refs/heads/main/mini.avif"
   },
   {
-    "CarYear": "2025",
+    "CarYear": "2025 Chevrolet Malibu",
     "CarDescription": "With a lower base price than many rivals, the 2025 Chevrolet Malibu is a heck of a value for family-sedan buyers looking for a spacious cabin, sizable trunk, and comfortable ride. The Chevrolet Malibu is a 5-seater vehicle that comes in 4 trim levels. The most popular style is the LS with 1LS, which starts at $26,995 and comes with a 1.5L I4 Turbo engine and Front Wheel Drive.",
-    "CarBrand": "Chevrolet",
-    "CarModel": "Malibu",
     "CarPrice": "$26,995",
     "CarAvgPrice": "$25,966",
     "CarHighlights": "3 year / 36k Basic Warranty",
     "CarMPG": "City 29 MPG / Highway 38 MPG",
-    "CarImage": "malibu.avif"
+    "CarImage": "https://raw.githubusercontent.com/1sauravm/CarPicker2/refs/heads/main/malibu.avif"
   },
   {
-    "CarYear": "2025",
+    "CarYear": "2025 Honda Accord",
     "CarDescription": "The 2025 Honda Accord retains its place among the most desirable midsize sedans by offering fuel-efficient powertrain choices, a refined and comfortable interior, and top safety scores. The Honda Accord is a 5-seater vehicle that comes in 6 trim levels. The most popular style is the LX, which starts at $29,390 and comes with a 1.5L I4 Turbo engine and Front Wheel Drive.",
-    "CarBrand": "Honda",
-    "CarModel": "Accord",
     "CarPrice": "$29,390",
     "CarAvgPrice": "$29,327",
     "CarHighlights": "3 year / 36k Basic Warranty",
     "CarMPG": "City 29 MPG / Highway 37 MPG",
-    "CarImage": "accord.avif"
+    "CarImage": "https://raw.githubusercontent.com/1sauravm/CarPicker2/refs/heads/main/accord.avif"
   },
   {
-    "CarYear": "2025",
+    "CarYear": "2025 Toyota Prius",
     "CarDescription": "The reimagined Toyota Prius continues to be the go-to car for maximum fuel efficiency, but now it resembles a cool Star Wars prop instead of a rolling piece of stray Tupperware. It needs more rear seat and cargo space, though. The Toyota Prius is a 5-seater vehicle that comes in 3 trim levels. The most popular style is the LE FWD, which starts at $29,085 and comes with a Hybrid 2.0L I4 engine and Front Wheel Drive.",
-    "CarBrand": "Toyota",
-    "CarModel": "Prius",
     "CarPrice": "$29,085",
     "CarAvgPrice": "$28,980",
     "CarHighlights": "3 year / 36k Basic Warranty, 8 year/ 100k Hybrid & EV Warranty",
     "CarMPG": "City 57 MPG / Highway 56 MPG",
-    "CarImage": "prius.avif"
+    "CarImage": "https://raw.githubusercontent.com/1sauravm/CarPicker2/refs/heads/main/prius.avif"
   },
   {
-    "CarYear": "2025",
+    "CarYear": "2025 Mercedes Benz CLE",
     "CarDescription": "The sporty new Mercedes CLE is all about delivering a premium luxury coupe experience with turbocharged power, standard all-wheel drive, and a finely tailored cabin. The Mercedes-Benz CLE is a 4-seater vehicle that comes in 3 trim levels. The most popular style is the CLE 300 Coupe 4MATIC, which starts at $57,650 and comes with a 2.0L I4 Turbo engine and All Wheel Drive.",
-    "CarBrand": "Mercedes Benz",
-    "CarModel": "CLE",
     "CarPrice": "$57,650",
     "CarAvgPrice": "$55,358",
     "CarHighlights": "4 year / 50k Basic Warranty, 8 year/ 100k Hybrid & EV Warranty",
     "CarMPG": "City 24 MPG / Highway 34 MPG",
-    "CarImage": "cle.png"
+    "CarImage": "https://raw.githubusercontent.com/1sauravm/CarPicker2/refs/heads/main/cle.png"
   },
   {
-    "CarYear": "2025",
+    "CarYear": "2025 BMW 5 Series",
     "CarDescription": "The 2025 BMW 5 Series is the driver's choice among midsize luxury sedans, and with a new plug-in hybrid, it will also appeal to efficiency-minded buyers. The BMW 5 Series is a 5-seater vehicle that comes in 3 trim levels. The most popular style is the 530i RWD, which starts at $59,375 and comes with a 2.0L I4 Turbo engine and Rear Wheel Drive.",
-    "CarBrand": "BMW",
-    "CarModel": "5 Series",
     "CarPrice": "$59,375",
     "CarAvgPrice": "$57,259",
     "CarHighlights": "4 year / 50k Basic Warranty, 8 year/ 100k Hybrid & EV Warranty",
     "CarMPG": "City 24 MPG / Highway 34 MPG",
-    "CarImage": "5series.jpg"
+    "CarImage": "https://raw.githubusercontent.com/1sauravm/CarPicker2/refs/heads/main/5series.jpg"
   },
   {
-    "CarYear": "2025",
+    "CarYear": "2025 Ford Mustang",
     "CarDescription": "The first and last pony car standing, the 2024 Ford Mustang offers a winning combination of swoopy looks, engaging driving characteristics, and affordable prices. The Ford Mustang is a 4-seater vehicle that comes in 5 trim levels. The most popular style is the GT Premium Convertible, which starts at $54,475 and comes with a 5.0L V8 engine and Rear Wheel Drive.",
-    "CarBrand": "Ford",
-    "CarModel": "Mustang",
     "CarPrice": "$33,515",
     "CarAvgPrice": "$32,766",
     "CarHighlights": "3 year / 36k Basic Warranty",
     "CarMPG": "City 15 MPG / Highway 23 MPG",
-    "CarImage": "mustang.jpg"
+    "CarImage": "https://raw.githubusercontent.com/1sauravm/CarPicker2/refs/heads/main/mustang.jpg"
   },
   {
-    "CarYear": "2025",
+    "CarYear": "2025 Acura Integra",
     "CarDescription": "The sporty Acura Integra is an excellent choice for shoppers looking for a feature-rich hatchback with a luxury badge. The Acura Integra is a 4-seater vehicle that comes in 4 trim levels. The most popular style is the Type S Manual, which starts at $53,795 and comes with a 2.0L I4 Turbo engine and Front Wheel Drive.",
-    "CarBrand": "Acura",
-    "CarModel": "Integra",
     "CarPrice": "$34,195",
     "CarAvgPrice": "$33,654",
     "CarHighlights": "4 year / 50k Basic Warranty",
     "CarMPG": "City 21 MPG / Highway 28 MPG",
-    "CarImage": "integra.avif"
+    "CarImage": "https://raw.githubusercontent.com/1sauravm/CarPicker2/refs/heads/main/integra.avif"
   },
   {
-    "CarYear": "2025",
+    "CarYear": "2025 Hyundai Ioniq 6",
     "CarDescription": "The 2025 Hyundai Ioniq 6 is a five-seat electric sedan that looks like nothing else on the road. Its swoopy aerodynamic design reduces rear headroom but helps provide an impressive driving range. Overall, it is a welcome alternative to electric SUVs that dominate the market. The Hyundai IONIQ 6 is a 5-seater vehicle that comes in 4 trim levels. The most popular style is the SEL AWD, which starts at $50,150 and comes with an Electric engine and All Wheel Drive.",
-    "CarBrand": "Hyundai",
-    "CarModel": "Ioniq 6",
     "CarPrice": "$38,900",
     "CarAvgPrice": "$38,624",
     "CarHighlights": "5 year / 60k Basic Warranty, 10 year/ 100k Hybrid & EV Warranty",
     "CarMPG": "City 111 MPGe / Highway 94 MPGe",
-    "CarImage": "6.jpg"
+    "CarImage": "https://raw.githubusercontent.com/1sauravm/CarPicker2/refs/heads/main/6.jpg"
   },
   {
-    "CarYear": "2025",
+    "CarYear": "2025 Genesis G90",
     "CarDescription": "The 2025 Genesis G90 is an excellent value compared to rival German luxury sedans, but it's still working to match them in performance and prestige. The Genesis G90 is a 5-seater vehicle that comes in 2 trim levels. The most popular style is the 3.5T, which starts at $90,950 and comes with a 3.5L V6 Turbo engine and All Wheel Drive.",
-    "CarBrand": "Genesis",
-    "CarModel": "G90",
     "CarPrice": "$90,950",
     "CarAvgPrice": "$91,799",
     "CarHighlights": "5 year / 60k Basic Warranty",
     "CarMPG": "City 18 MPG / Highway 26 MPG",
-    "CarImage": "g90.jpg"
+    "CarImage": "https://raw.githubusercontent.com/1sauravm/CarPicker2/refs/heads/main/g90.jpg"
   },
   {
-    "CarYear": "2025",
+    "CarYear": "2025 BMW 7 Series",
     "CarDescription": "The 2025 BMW 7 Series remains a benchmark of comfort, tech, and luxury sedan performance. From plug-in hybrid efficiency to stirring V8 power, the 7 Series wraps its innovations in a speedy, sporty package. The BMW 7 Series is a 5-seater vehicle that comes in 3 trim levels. The most popular style is the 740i RWD, which starts at $97,575 and comes with a 3.0L I6 Turbo engine and Rear Wheel Drive.",
-    "CarBrand": "BMW",
-    "CarModel": "7 Series",
     "CarPrice": "$97,575",
     "CarAvgPrice": "$96,954",
     "CarHighlights": "4 year / 50k Basic Warranty, 8 year/ 100k Hybrid & EV Warranty",
     "CarMPG": "City 25 MPG / Highway 31 MPG",
-    "CarImage": "7series.jpg"
+    "CarImage": "https://raw.githubusercontent.com/1sauravm/CarPicker2/refs/heads/main/7series.jpg"
   },
   {
-    "CarYear": "2025",
+    "CarYear": "2025 Cadillac CT5-V",
     "CarDescription": "The Cadillac CT5-V and pavement-peeling CT5-V Blackwing bring astonishing acceleration and first-class handling precision to the luxury sport sedan class. While the CT5-V's fit and finish and interior materials don't match the more sophisticated efforts of major European rivals, its price and performance make it a serious alternative. The Cadillac CT5-V is a 5-seater vehicle that comes in 2 trim levels. The most popular style is the V-Series Blackwing Manual, which starts at $94,890 and comes with a 6.2L V8 S/C engine and Rear Wheel Drive.",
-    "CarBrand": "Cadillac",
-    "CarModel": "CT5-V",
     "CarPrice": "$52,890",
     "CarAvgPrice": "$51,209",
     "CarHighlights": "4 year / 50k Basic Warranty",
     "CarMPG": "City 13 MPG / Highway 21 MPG",
-    "CarImage": "ct5.avif"
+    "CarImage": "https://raw.githubusercontent.com/1sauravm/CarPicker2/refs/heads/main/ct5.avif"
   },
   {
-    "CarYear": "2025",
+    "CarYear": "2025 BMW M4",
     "CarDescription": "Few modern sports cars can match the BMW M4's prodigious power and agile handling, while a smooth ride and usable back seat provide unexpected practicality. The BMW M4 is a 4-seater vehicle that comes in 3 trim levels. The most popular style is the Competition Convertible xDrive, which starts at $96,475 and comes with a 3.0L I6 Turbo engine and All Wheel Drive.",
-    "CarBrand": "BMW",
-    "CarModel": "M4",
     "CarPrice": "$80,275",
     "CarAvgPrice": "$79,828",
     "CarHighlights": "4 year / 50k Basic Warranty",
     "CarMPG": "City 16 MPG / Highway 22 MPG",
-    "CarImage": "m4.jpg"
+    "CarImage": "https://raw.githubusercontent.com/1sauravm/CarPicker2/refs/heads/main/m4.jpg"
   },
   {
-    "CarYear": "2025",
+    "CarYear": "2025 Audi S7",
     "CarDescription": "Craving more performance than the Audi A7 but find the RS 7 a bit too extreme? The 2025 Audi S7 delivers the ideal blend of power, luxury, and everyday practicality, all at a compelling price point. The Audi S7 is a 5-seater vehicle that comes in 3 trim levels. The most popular style is the Premium Plus, which starts at $90,795 and comes with a 2.9L V6 S/C and Turbo engine and All Wheel Drive.",
-    "CarBrand": "Audi",
-    "CarModel": "S7",
     "CarPrice": "$86,995",
     "CarAvgPrice": "$87,719",
     "CarHighlights": "4 year / 50k Basic Warranty, 8 year/ 100k Hybrid & EV Warranty",
     "CarMPG": "City 19 MPG / Highway 27 MPG",
-    "CarImage": "s7.avif"
+    "CarImage": "https://raw.githubusercontent.com/1sauravm/CarPicker2/refs/heads/main/s7.avif"
   }
 ]
